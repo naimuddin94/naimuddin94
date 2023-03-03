@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @naimuddin94
-- 👀 I’m interested in python Django Framework
+- 👀 I’m interested in React Js and python Django Framework
 - 🌱 I’m currently learning advance Django
 - 💞️ I’m looking to collaborate on project
 - 📫 I learn django from documentation
