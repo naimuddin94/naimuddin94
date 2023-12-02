@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm MD NAIM UDDIN</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 ![cover photo](https://media.licdn.com/dms/image/D4D16AQEc_qRGdMEqPg/profile-displaybackgroundimage-shrink_350_1400/0/1701496942618?e=1706745600&v=beta&t=7PCRx8Jt7MhUH1foGakqTB0QTayIurppTTC6HoU2YAA)
+
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 - 🔭 I’m currently working on [News App](https://nexus-news-5bb9e.web.app/)
 
