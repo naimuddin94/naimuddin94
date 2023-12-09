@@ -141,11 +141,13 @@ learn quickly and adapt to new technologies.
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naimuddin94&theme=jolly&show_icons=true&hide_border=true&layout=compact" align="center" /></div>
 
 <br/>
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=naimuddin94&theme=jolly&hide_border=true" align="center" /></div>
-
-<br/>
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=naimuddin94&theme=jolly&show_icons=true&hide_border=true&count_private=true" align="center" /></div>
+
+<br/>
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=naimuddin94&theme=jolly&hide_border=true" align="center" /></div>
+
+
 
 
 <br/>
