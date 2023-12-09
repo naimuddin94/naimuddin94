@@ -1,6 +1,5 @@
 ![cover photo](https://github.com/naimuddin94/naimuddin94/blob/main/images/github_one.gif)
 
-![cover photo](https://media.licdn.com/dms/image/D4D16AQEc_qRGdMEqPg/profile-displaybackgroundimage-shrink_350_1400/0/1701496942618?e=1706745600&v=beta&t=7PCRx8Jt7MhUH1foGakqTB0QTayIurppTTC6HoU2YAA)
 
 
 
