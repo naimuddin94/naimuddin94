@@ -38,6 +38,7 @@ learn quickly and adapt to new technologies.
 </p>
 
 ## My Skill Set
+<hr/>
 
 <table><tr><td valign="top" width="33%">
 
@@ -128,6 +129,8 @@ learn quickly and adapt to new technologies.
 #### front-end [https://github.com/naimuddin94/city-computer-client](https://github.com/naimuddin94/city-computer-client)
 
 #### back-end [https://github.com/naimuddin94/city-computer-server](https://github.com/naimuddin94/city-computer-server)
+
+<br/>
 
 <hr/>
 
