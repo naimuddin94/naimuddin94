@@ -1,9 +1,8 @@
 ![cover photo](https://github.com/naimuddin94/naimuddin94/blob/main/images/github_one.gif)
 
-### <div align="center">I'm Naim Uddin </div>  
-  
+### <div align="center">I'm Naim Uddin </div>
 
-<div align="center"> A full-time front-end developer 👨‍💻</div>  
+<div align="center"> A full-time front-end developer 👨‍💻</div>
 
 <br/>  
   
@@ -30,7 +29,6 @@ learn quickly and adapt to new technologies.
 
 <br/>
 
-
 ## My Skill Set
 
 <table><tr><td valign="top" width="33%">
@@ -45,6 +43,7 @@ learn quickly and adapt to new technologies.
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
 
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 
 </div>
 
@@ -128,6 +127,7 @@ learn quickly and adapt to new technologies.
 <hr/>
 
 ## Connect with me
+
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/md-naim-uddin-80b2252a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/md-naim-uddin-80b2252a3" height="30" width="40" /></a>
 </p>
@@ -146,9 +146,6 @@ learn quickly and adapt to new technologies.
 
 <br/>
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=naimuddin94&theme=jolly&hide_border=true" align="center" /></div>
-
-
-
 
 <br/>
 
