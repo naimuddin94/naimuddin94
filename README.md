@@ -129,7 +129,7 @@ learn quickly and adapt to new technologies.
 ## Connect with me
 
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/md-naim-uddin-80b2252a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/md-naim-uddin-80b2252a3" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/iamnaimuddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/iamnaimuddin" height="30" width="40" /></a>
 </p>
 
 <br/>
