@@ -1,4 +1,4 @@
-![cover photo](https://github.com/naimuddin94/naimuddin94/blob/main/images/github_one.gif)
+![cover photo](https://media.licdn.com/dms/image/D4D16AQEc_qRGdMEqPg/profile-displaybackgroundimage-shrink_350_1400/0/1701496942618?e=1725494400&v=beta&t=07J-hj7tapRPCifAEVsuDhQPxHnas8xM_GGWeVpPBps)
 
 ### <div align="center">I'm Naim Uddin </div>
 
