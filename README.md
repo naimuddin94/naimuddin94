@@ -2,7 +2,7 @@
 
 ### <div align="center">I'm Naim Uddin </div>
 
-<div align="center"> A full-time front-end developer 👨‍💻</div>
+<div align="center"> A full-time MERN stack developer 👨‍💻</div>
 
 <br/>  
   
@@ -18,8 +18,6 @@ learn quickly and adapt to new technologies.
 - 🔭 I’m currently working on [News App](https://nexus-news-5bb9e.web.app)
 
 - 🌱 I’m currently learning **Next Js, Typescript**
-
-- 👯 I’m looking to collaborate on [Travel App](https://travlog-a6efa.web.app/)
 
 - 👨‍💻 All of my projects are available at [https://naimportfolio.vercel.app](https://naimportfolio.vercel.app/)
 
@@ -78,21 +76,17 @@ learn quickly and adapt to new technologies.
 
 ## Projects
 
-### The Nexus News
+### Islamic Marriage
 
 <hr/>
 
-#### ✔ A News Paper Full Stack Website with Mern stack [https://nexus-news-5bb9e.web.app](https://nexus-news-5bb9e.web.app/)
+#### ✔ A Matrimonial MERN Stack Web Application [https://islamicmarriage1222.vercel.app](https://islamicmarriage1222.vercel.app/)
 
-**The Nexus News Github:**
+**Technologies:**
 
-#### front-end [https://github.com/naimuddin94/nexus-news](https://github.com/naimuddin94/nexus-news)
+#### front-end: Next.js, Redux, Typescript, Rect Hook Form, Zod 
 
-#### back-end [https://github.com/naimuddin94/nexus-news-server](https://github.com/naimuddin94/nexus-news-server)
-
-#### Admin-Email abir@gmail.com
-
-#### Admin-Pass 123456A#
+#### back-end: Express.js, Sequelize, MySQL
 
 <br/>
 
