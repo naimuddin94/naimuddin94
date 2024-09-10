@@ -1,4 +1,4 @@
-![cover photo](https://media.licdn.com/dms/image/D4D16AQEc_qRGdMEqPg/profile-displaybackgroundimage-shrink_350_1400/0/1701496942618?e=1725494400&v=beta&t=07J-hj7tapRPCifAEVsuDhQPxHnas8xM_GGWeVpPBps)
+![cover photo](https://media.licdn.com/dms/image/v2/D4D16AQEc_qRGdMEqPg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1701496942618?e=1731542400&v=beta&t=1MtPd0YSeCGpx6QwzMD_NxL9xVCEIAB66ih3rH_rJtY)
 
 ### <div align="center">I'm Naim Uddin </div>
 
