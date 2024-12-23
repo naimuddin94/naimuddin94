@@ -1,29 +1,22 @@
-![cover photo](https://asset.cloudinary.com/dxoncladp/a98e8d57c2f2ce929bd97a1e048f6374)
+![cover photo](https://res.cloudinary.com/dxoncladp/image/upload/v1734964718/Md_Naim_Uddin_wd2ypa.png)
 
 ### <div align="center">I'm Naim Uddin </div>
 
-<div align="center"> A full-time MERN stack developer 👨‍💻</div>
+<div align="center"> A full stack web developer 👨‍💻</div>
 
 <br/>  
   
-Adaptable Web Developer skilled in JavaScript,
-React, Express.js, MongoDB, and Next.js.
-Passionate about creating user-centric
-applications, with a focus on efficiency and
-optimal performance. Demonstrated ability to
-learn quickly and adapt to new technologies. 
+Versatile Web Developer with a strong grasp of modern technologies like JavaScript, TypeScript, React, Next.js, Tailwind CSS, Redux, Node.js, MongoDB, Prisma, and PostgreSQL. I enjoy designing and building user-friendly applications while focusing on clean code and high performance. With solid experience in software patterns and backend frameworks, I’m always eager to learn and adapt to new tools and challenges. 
   
 <br/>
 
-- 🔭 I’m currently working on [News App](https://nexus-news-5bb9e.web.app)
+- 🔭 I’m currently working on [E-Commerce App](https://citycomputer.vercel.app/)
 
-- 🌱 I’m currently learning **Next Js, Typescript**
+- 🌱 I’m currently learning **Data Structures and Algorithms with C++**
 
-- 👨‍💻 All of my projects are available at [https://naimportfolio.vercel.app](https://naimportfolio.vercel.app/)
+- 💬 Feel free to ask me about **JavaScript**
 
-- 💬 Ask me about **JavaScript**
-
-- 📫 How to reach me **iamnaimuddin@yahoo.com**
+- 📫 Reach out to me at [**iamnaimuddin@yahoo.com**](mailto:iamnaimuddin@yahoo.com)
 
 <br/>
 
@@ -34,38 +27,39 @@ learn quickly and adapt to new technologies.
 ### Frontend
 
 <div align="center"> 
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a> 
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
-
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
+<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
+<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
+<a href="https://chakra-ui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="50" /></a>
+<a href="https://www.framer.com/motion/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="Framer Motion" height="50" /></a> 
 </div>
 
-</td><td valign="top" width="33%">
+---
 
 ### Backend
 
 <div align="center">  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
+<a href="https://mongoosejs.com/" target="_blank"><img style="margin: 10px" src="https://res.cloudinary.com/dxoncladp/image/upload/v1734968035/mongoose_pmmphm.png" alt="MongoDB" height="50" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+<a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="50" /></a>  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
 </div>
 
-</td><td valign="top" width="33%">
+---
 
 ### Tools
 
 <div align="center">  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
-<a href="https://vercel.com/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt="vercel" height="50" /></a>
-<a href="https://netlify.app/" target="_blank"><img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/netlify_logo_icon_169924.png" alt="netlify" height="50" /></a>
-<a href="https://canva.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/900px-Canva_icon_2021.svg.png?20220821125247" alt="Canva" height="50" /></a>  
+<a href="https://chatgpt.com/" target="_blank"><img style="margin: 10px" src="https://res.cloudinary.com/dxoncladp/image/upload/v1734968593/ChatGPT-Logo-PNG-File_issesn.png" alt="ChatGPT" height="50" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+<a href="https://postman.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="50" /></a>  
 </div>
 
 </td></tr></table>
@@ -76,55 +70,30 @@ learn quickly and adapt to new technologies.
 
 ## Projects
 
-### Islamic Marriage
+# 🔗 City Computer
 
-<hr/>
+The City Computer E-Commerce platform is designed to provide a seamless and engaging shopping experience for customers and vendors. Built with modern web technologies such as Next.js, React, and TypeScript, the frontend ensures fast loading times, intuitive navigation, and smooth user interactions.
 
-#### ✔ A Matrimonial MERN Stack Web Application [https://islamicmarriage1222.vercel.app](https://islamicmarriage1222.vercel.app/)
+<p align="center">
+<a href="https://citycomputer.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge" alt="Live Demo"  style="margin: 10px" /></a>
+<a href="https://github.com/naimuddin94/city_computer_frontend" target="_blank"><img src="https://img.shields.io/badge/Frontend-Github-brightgreen?style=for-the-badge" alt="Frontend Code"  style="margin: 10px" /></a>
+<a href="https://github.com/naimuddin94/city_computer_backend" target="_blank"><img src="https://img.shields.io/badge/Backend-Github-brightgreen?style=for-the-badge" alt="Backend Code"  style="margin: 10px" /></a>
+<a href="https://documenter.getpostman.com/view/34122341/2sAYHzFhRZ" target="_blank"><img src="https://img.shields.io/badge/Postman-API_Docs-orange?style=for-the-badge&logo=postman" alt="Postman Docs"  style="margin: 10px" /></a>
+</p>
 
-**Technologies:**
-
-#### front-end: Next.js, Redux, Typescript, Rect Hook Form, Zod 
-
-#### back-end: Express.js, Sequelize, MySQL
-
-<br/>
-
-### Travlog
-
-<hr/>
-
-#### ✔ A Offline Travel Website with React, Typescript, Firebase, Express and MongoDB [https://travlog-a6efa.web.app](https://travlog-a6efa.web.app/)
-
-**Travlog Github:**
-
-#### front-end [https://github.com/naimuddin94/travel-client](https://github.com/naimuddin94/travel-client)
-
-#### back-end [https://github.com/naimuddin94/travel-server](https://github.com/naimuddin94/travel-server)
-
-<br/>
-
-### City Computers
-
-<hr/>
-
-#### ✔ Ecommerce Website with React, Firebase, Express and MongoDB [https://city-computer-13a94.web.app](https://city-computer-13a94.web.app/)
-
-**City Computers Github:**
-
-#### front-end [https://github.com/naimuddin94/city-computer-client](https://github.com/naimuddin94/city-computer-client)
-
-#### back-end [https://github.com/naimuddin94/city-computer-server](https://github.com/naimuddin94/city-computer-server)
-
-<br/>
-
-<hr/>
+---
 
 ## Connect with me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/iamnaimuddin" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/iamnaimuddin" height="30" width="40" /></a>
-</p>
+<div align="center">
+<a href="www.linkedin.com/in/iamnaimuddin" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin  style="margin: 10px" />
+</a>
+<a href="https://www.facebook.com/nayeem.durjoy.372" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook  style="margin: 10px" />
+</a> 
+</div>
 
 <br/>
 
