@@ -6,9 +6,17 @@
 
 <br/>  
   
-Versatile Web Developer with a strong grasp of modern technologies like JavaScript, TypeScript, React, Next.js, Tailwind CSS, Redux, Node.js, MongoDB, Prisma, and PostgreSQL. I enjoy designing and building user-friendly applications while focusing on clean code and high performance. With solid experience in software patterns and backend frameworks, I’m always eager to learn and adapt to new tools and challenges. 
+I'm a results-driven full-stack web developer with a strong foundation in JavaScript and TypeScript. I specialize in building scalable and efficient applications, leveraging my expertise in frameworks like Next.js, React, and Redux for the frontend and Node.js with Express on the backend. 
   
 <br/>
+
+<br>
+With a deep understanding of database management, I excel in MongoDB and PostgreSQL, along with robust experience in ODM/ORM tools like Mongoose and Prisma. My proficiency in implementing JWT ensures secure and seamless authentication solutions for modern web applications.
+</br>
+
+<br>
+I thrive in creating versatile, high-performance applications and am always eager to adopt new technologies and best practices to deliver impactful solutions.
+</br>
 
 - 🔭 I’m currently working on [E-Commerce App](https://citycomputer.vercel.app/)
 
