@@ -2,7 +2,7 @@
 
 ### <div align="center">I'm Naim Uddin </div>
 
-<div align="center"> A full stack web developer 👨‍💻</div>
+<div align="center"> Web application developer 👨‍💻</div>
 
 <br/>  
 I'm a results-driven full-stack web developer with a strong foundation in JavaScript and TypeScript. I specialize in building scalable and efficient applications, leveraging my expertise in frameworks like Next.js, React, and Redux for the frontend and Node.js with Express on the backend. 
