@@ -1,28 +1,29 @@
-![cover photo](https://res.cloudinary.com/dxoncladp/image/upload/v1734964718/Md_Naim_Uddin_wd2ypa.png)
+<!-- ![cover photo](https://res.cloudinary.com/dxoncladp/image/upload/v1734964718/Md_Naim_Uddin_wd2ypa.png) -->
 
-### <div align="center">I'm Naim Uddin </div>
+![cover photo](https://res.cloudinary.com/dxoncladp/image/upload/v1774842945/Github_Banner_1_ycxrvg.jpg)
 
-<div align="center"> Web application developer 👨‍💻</div>
-
-<br/>  
-I'm a results-driven full-stack web developer with a strong foundation in JavaScript and TypeScript. I specialize in building scalable and efficient applications, leveraging my expertise in frameworks like Next.js, React, and Redux for the frontend and Node.js with Express on the backend. 
 <br/>
-<br>
-With a deep understanding of database management, I excel in MongoDB and PostgreSQL, along with robust experience in ODM/ORM tools like Mongoose and Prisma. My proficiency in implementing JWT ensures secure and seamless authentication solutions for modern web applications.
-</br>
-<br>
-I thrive in creating versatile, high-performance applications and am always eager to adopt new technologies and best practices to deliver impactful solutions.
-</br>
 
+I'm a Lead Full-Stack Developer specializing in designing and scaling high-performance SaaS applications. I build robust, production-ready systems with a strong focus on performance, scalability, and clean architecture.
 
+<br/>
 
-- 🔭 I’m currently working on [E-Commerce App](https://citycomputer.vercel.app/)
+With deep expertise in JavaScript and TypeScript, I work across the full stack using modern technologies like Next.js, React, Redux, Node.js, and Express. I have hands-on experience building distributed systems and handling high-concurrency environments.
 
-- 🌱 I’m currently learning **Data Structures and Algorithms with C++**
+<br/>
 
-- 💬 Feel free to ask me about **JavaScript**
+I bring strong database engineering skills with MongoDB and PostgreSQL, along with ORM/ODM tools like Prisma and Mongoose. I also implement secure, scalable authentication systems using JWT and best security practices.
 
-- 📫 Reach out to me at [**iamnaimuddin@yahoo.com**](mailto:iamnaimuddin@yahoo.com)
+<br/>
+
+I enjoy solving complex engineering problems, optimizing system performance, and continuously improving architecture to build reliable and efficient products.
+
+<br/>
+
+- 🔭 Currently building scalable SaaS products and internal tools
+- 🌱 Continuously improving in **System Design**
+- 💬 Ask me about **Full-Stack Architecture, Performance Optimization, and JavaScript**
+- 📫 Reach me at **iamnaimuddin@yahoo.com**
 
 <br/>
 
@@ -31,8 +32,6 @@ I thrive in creating versatile, high-performance applications and am always eage
 ### Frontend
 
 <div align="center"> 
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
@@ -46,24 +45,40 @@ I thrive in creating versatile, high-performance applications and am always eage
 
 ### Backend
 
-<div align="center">  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-<a href="https://mongoosejs.com/" target="_blank"><img style="margin: 10px" src="https://res.cloudinary.com/dxoncladp/image/upload/v1734968035/mongoose_pmmphm.png" alt="MongoDB" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="50" /></a>  
+<div align="center">    
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
+<a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a> 
+<a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>
+<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
+<a href="https://www.rabbitmq.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="50" /></a>  
+<a href="https://kafka.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="50" /></a>  
+<a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="50" /></a>    
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
 </div>
 
 ---
 
-### Tools
+### Language
 
-<div align="center">  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
-<a href="https://chatgpt.com/" target="_blank"><img style="margin: 10px" src="https://res.cloudinary.com/dxoncladp/image/upload/v1734968593/ChatGPT-Logo-PNG-File_issesn.png" alt="ChatGPT" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://postman.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="50" /></a>  
+<div align="center"> 
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
+</div>
+
+---
+
+### DevOps
+
+<div align="center"> 
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a> 
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a> 
 </div>
 
 <br/>
@@ -72,16 +87,19 @@ I thrive in creating versatile, high-performance applications and am always eage
 
 ## Projects
 
-# 🔗 City Computer
+# 🔗 Staff Time Tracker
 
-The City Computer E-Commerce platform is designed to provide a seamless and engaging shopping experience for customers and vendors. Built with modern web technologies such as Next.js, React, and TypeScript, the frontend ensures fast loading times, intuitive navigation, and smooth user interactions.
+The Time Tracker Application is a full-scale SaaS platform that I designed and built from scratch, focused on solving real-world workforce management challenges.
+
+It handles complex workflows such as real-time activity tracking, screenshot monitoring, attendance, and reporting within a multi-tenant architecture. The system is built with Next.js, React, TypeScript, Node.js, and PostgreSQL, supporting both web and desktop (Electron) environments.
+
+A key challenge was ensuring accurate time tracking and system reliability under high concurrency and unexpected failures (e.g., crashes or power loss). I addressed this by designing efficient database structures, implementing recovery mechanisms, and optimizing backend processes.
+
+This project demonstrates my ability to architect and scale complex, high-performance systems with a strong focus on reliability, efficiency, and clean design.
 
 <p align="center">
-<a href="https://citycomputer.vercel.app/" target="_blank">
+<a href="https://dashboard.stafftimetrack.com" target="_blank">
 <img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge" alt="Live Demo"  style="margin: 10px" /></a>
-<a href="https://github.com/naimuddin94/city_computer_frontend" target="_blank"><img src="https://img.shields.io/badge/Frontend-Github-brightgreen?style=for-the-badge" alt="Frontend Code"  style="margin: 10px" /></a>
-<a href="https://github.com/naimuddin94/city_computer_backend" target="_blank"><img src="https://img.shields.io/badge/Backend-Github-brightgreen?style=for-the-badge" alt="Backend Code"  style="margin: 10px" /></a>
-<a href="https://documenter.getpostman.com/view/34122341/2sAYHzFhRZ" target="_blank"><img src="https://img.shields.io/badge/Postman-API_Docs-orange?style=for-the-badge&logo=postman" alt="Postman Docs"  style="margin: 10px" /></a>
 </p>
 
 ---
@@ -123,4 +141,3 @@ The City Computer E-Commerce platform is designed to provide a seamless and enga
 
 <hr/>
 <br/>
-
